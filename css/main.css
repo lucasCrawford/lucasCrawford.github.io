@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  background: radial-gradient(#aba7c0, #090913);
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+  overflow:auto;
+}
+.wrapper {
+  width:100%;
+  text-align:center;
+  top:30%;
+  position:relative;
+}
+p {
+  font-family: 'Roboto';
+  color: white;
+  text-align: center;
+  font-size: 26px;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.ri {
+  max-width: 40%;
+}
