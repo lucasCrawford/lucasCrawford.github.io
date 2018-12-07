@@ -339,7 +339,7 @@ Primary use:
 /*---------------------------------------------*/
 .overlay1 {
   position: relative;
-  padding-top: 4%;
+  padding-top: 5%;
   z-index: 1;
 }
 .overlay1::before {
